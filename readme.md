@@ -1,5 +1,5 @@
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/0f683f81-7295-4338-873c-7fa4d09ec771" /> Trabajo Práctico Final – Desarrollo de Portfolio Personal Web
-He desarrollado un **Portfolio Personal**, donde presento de forma profesional mi Identidad, mis Habilidades y los Proyectos que realicé durante el **Curso Full stack**.
+He desarrollado un **Portfolio Personal**, donde presento de forma profesional mi Identidad, mis Habilidades y los Proyectos que realicé durante el **Curso Full stack**. He integrado los conocimientos adquiridos en **HTML, CSS y JavaScript**, aplicándolos en un proyecto real que puede ser utilizado como carta de presentación en entornos académicos y laborales.
 
 ---
 
