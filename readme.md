@@ -3,15 +3,15 @@ He desarrollado un **Portfolio Personal**, donde presento de forma profesional m
 
 ---
 
-## 🎬 VIDEO de DEMOSTRACIÓN:
+<!-- ## 🎬 VIDEO de DEMOSTRACIÓN:
 
 👉 [Ver Video]()
 
----
+--- -->
 
 ## 🔗 DEMO en VIVO
 
-👉 [Ver Página]()
+👉 [Ver Página](https://laurabrnich4.github.io/Curso_Fullstack-TP_Final_1-Portfolio-Personal-Web/)
 
 ---
 
@@ -27,13 +27,8 @@ He desarrollado un **Portfolio Personal**, donde presento de forma profesional m
 ## ✨ CARACTERÍSTICAS:
 
 - Diseño responsive y adaptable 📱
-- Colores modernos y sombras suaves 🎨
-- Etiquetas por categoría (Popular, Tecnología, Psicología, etc.)
-- Información completa del post: título, descripción, hashtags
-- Autor con avatar y seguidores
-- Fecha de publicación y contador de vistas
-- Botón de **"Seguir publicación"**
-- Soporte automático para modo oscuro 🌙
+- Colores modernos 🎨
+- Modo oscuro 🌙
 
 ---
 
@@ -43,5 +38,5 @@ He desarrollado un **Portfolio Personal**, donde presento de forma profesional m
 |------------|------|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Estructura semántica |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Estilos responsive **con Flexbox** |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | Interactividad del menú |
+<!-- | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | Interactividad del menú | -->
 
